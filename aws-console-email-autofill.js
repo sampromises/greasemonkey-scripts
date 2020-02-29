@@ -11,6 +11,6 @@
 (function() {
     'use strict';
 
-    document.getElementById('resolving_input').value = 'sam+aws@sskymail.com';
+    document.getElementById('resolving_input').value = 'samkim90274+aws@gmail.com';
     document.getElementById('next_button').click();
 })();
